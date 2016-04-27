@@ -1,7 +1,7 @@
 # my-nukkit-plugins
 my-nukkit-plugins
 
-#stable
+##stable
 
 https://github.com/haniokasai/JetPack
 You can use JetPack in Nukkit! 
@@ -18,12 +18,12 @@ if you break the block, you can earn economys money.(nukkit)
 https://github.com/haniokasai/AdminJQ
 a nukkit plugin. When ops join or quit,broadcast it.
 
-#garbage
+##garbage
 
 https://github.com/haniokasai/EssentialPVP
 
 
 
-#etc
+##etc
 
 https://github.com/haniokasai/Nukkit-multicraft-config
