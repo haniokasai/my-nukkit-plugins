@@ -1,0 +1,3 @@
+[submodule "JetPack-nukkit"]
+	path = JetPack-nukkit
+	url = https://github.com/haniokasai/JetPack
