@@ -18,6 +18,9 @@ if you break the block, you can earn economys money.(nukkit)
 https://github.com/haniokasai/AdminJQ
 a nukkit plugin. When ops join or quit,broadcast it.
 
+https://github.com/haniokasai/TimeCommander
+Timecommander for nukkit
+
 ##garbage
 
 https://github.com/haniokasai/EssentialPVP
