@@ -23,7 +23,7 @@ Timecommander for nukkit
 
 ##dev
 
-http://github.com/haniokasai.com/killbearboys-nukkit
+http://github.com/haniokasai/killbearboys-nukkit
 
 ##garbage
 
