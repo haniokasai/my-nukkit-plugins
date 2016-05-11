@@ -21,6 +21,10 @@ a nukkit plugin. When ops join or quit,broadcast it.
 https://github.com/haniokasai/TimeCommander
 Timecommander for nukkit
 
+##dev
+
+http://github.com/haniokasai.com/killbearboys-nukkit
+
 ##garbage
 
 https://github.com/haniokasai/EssentialPVP
