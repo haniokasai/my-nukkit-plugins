@@ -21,6 +21,9 @@ a nukkit plugin. When ops join or quit,broadcast it.
 https://github.com/haniokasai/TimeCommander-nukkit
 Timecommander for nukkit
 
+https://github.com/haniokasai/IPLogger
+IPLogger for nukkit.
+
 ##dev
 
 http://github.com/haniokasai/killbearboys-nukkit
