@@ -24,6 +24,12 @@ Timecommander for nukkit
 https://github.com/haniokasai/IPLogger
 IPLogger for nukkit.
 
+https://github.com/haniokasai/MyAuth
+Quick & Easy LoginSystem for nukkit
+
+https://github.com/haniokasai/SPAMBAN
+Spam Block Plugin for nukkit
+
 ##dev
 
 http://github.com/haniokasai/killbearboys-nukkit
