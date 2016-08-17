@@ -30,6 +30,9 @@ Quick & Easy LoginSystem for nukkit
 https://github.com/haniokasai/SPAMBAN
 Spam Block Plugin for nukkit
 
+https://github.com/haniokasai/NuclearGoogleAnalytics
+GoogleAnalytics for Nukkit. 
+
 ##dev
 
 http://github.com/haniokasai/killbearboys-nukkit
