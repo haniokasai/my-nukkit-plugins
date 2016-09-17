@@ -33,6 +33,12 @@ Spam Block Plugin for nukkit
 https://github.com/haniokasai/NuclearGoogleAnalytics
 GoogleAnalytics for Nukkit. 
 
+https://github.com/haniokasai/ChatInWorld
+chat separate per-world 
+
+https://github.com/haniokasai/SimpleLogger
+Simple Number of Player Logger for Nukkit
+
 ##dev
 
 http://github.com/haniokasai/killbearboys-nukkit
