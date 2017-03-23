@@ -39,6 +39,9 @@ chat separate per-world
 https://github.com/haniokasai/SimpleLogger
 Simple Number of Player Logger for Nukkit
 
+https://github.com/haniokasai/NuclearGunWars-plugin
+Gunfight MCPE Server Plugin written for Nukkit
+
 ##dev
 
 http://github.com/haniokasai/killbearboys-nukkit
